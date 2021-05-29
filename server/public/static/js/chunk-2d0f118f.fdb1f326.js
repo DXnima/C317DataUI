@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f118f"],{"9ed1":function(e,t,n){"use strict";n.r(t);var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("数据库数据显示"+e._s(this.$route.query.id))])},a=[],c={name:"sql-data",data:function(){return{}},created:function(){},methods:{}},r=c,s=n("2877"),d=Object(s["a"])(r,u,a,!1,null,"57c808f1",null);t["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0f118f.fdb1f326.js.map
