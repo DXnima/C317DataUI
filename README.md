@@ -26,7 +26,7 @@ quarkH5掘金文章：[Vue + Koa从零打造一个H5页面可视化编辑器—�
     - [x] 删除PSD部分 
 2. 可视化组件
     - [x] 封装 [Echarts](https://echarts.apache.org/examples/zh/index.html) 大部分图表
-    - [x] 封装 [DataV](http://datav.jiaminghi.com/) 所有图表
+    - [x] 封装 [DataV](http://datav.jiaminghi.com/) 大部分图表
     - [x] 不同组件的配置
 3. 后端接口
     - [x] 完善图片上传和删除接口
